@@ -16,7 +16,3 @@ The website was tested using Firefox and Chrome.
 
 # Compilation Instructions
 To open the portfolio website, open index.html in any browser.
-
-# Credits
-This project is generated as part of Udacity's full-stack web development
-program.
